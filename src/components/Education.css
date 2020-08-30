@@ -1,0 +1,37 @@
+.container{
+    animation: bounceInRight;
+    animation-duration: 1s;
+}
+.class1{
+    color: white;
+    font-size:45px;
+    margin-bottom: 2px;
+}
+.class1:hover{
+    color: white;
+    transition: .5s;
+    font-size:50px;
+}
+.school{
+    color:#df431f;
+    font-size: 35px;
+    word-spacing: 3px;
+}
+.school:hover{
+    color:#df431f;
+    font-size: 40px;
+}
+.percentage{
+    color:#df431f;
+    font-size: 40px;
+}
+.percentage:hover{
+    color:#df431f;
+    font-size: 40px;
+}
+.year{
+    font-size: 10px;
+}
+.year:hover{
+    font-size: 10px;
+}

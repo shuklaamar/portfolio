@@ -1,0 +1,26 @@
+.container{
+    animation:bounceInRight;
+    animation-duration: 1s;
+}
+h1{
+    color: white;
+    font-size: 210px;
+}
+h1:hover{
+    color:#df431f;
+    transition: .5s;
+    font-size: 220px;
+}
+p{  color: white;
+    font-size: 90px;
+    word-spacing: 20px;
+}
+p:hover{
+    color: white;
+    transition: .5s;
+    font-size: 100px;
+}
+span{
+    color:#df431f;
+    font-size: 20px;
+}

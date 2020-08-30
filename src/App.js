@@ -25,15 +25,16 @@ class App extends React.Component {
       {id:6,title:'Node JS',prof:'learning..'}
     ],
     projects:[
-      {id:1,Language:'c++',title:'Fantasy Cricket Legue'},
-      {id:2,Language:'HTML CSS JavaScript',title:'Cricket Website'},
-      {id:3,Language:'HTML CSS JavaScript',title:'Restorent Website'},
-      {id:4,Language:'Node JS',title:'Weather App'}
+      {id:1,Language:'c++',title:'Fantasy Cricket Legue',qualities:"I have this project in First year of engeeneering. This project was made with the concept of OOPS in CPP."},
+      {id:2,Language:'HTML CSS JavaScript',title:'Cricket Website',qualities:"Cricket website is the project which I have done in 2nd semester and I designed the front page."},
+      {id:3,Language:'HTML CSS JavaScript',title:'Restorent Website',qualities:"I have this project in First year of engeeneering. This project was made with the concept of OOPS in CPP."},
+      {id:4,Language:'Node JS',title:'Weather App',qualities:"On entering the location User gets the details about the weather."}
     ],
     certificates:[
-      {id:1,Language:'Data-Structure',title:'Negerros Bootcamp'},
-      {id:2,Language:'Bootstrap 4',title:'Coursera'},
-      {id:3,Language:'Algorithm-ToolBox',title:'Coursera'},
+      {id:1,Language:'Data-Structure',title:'Negerros Bootcamp',qualities:"Implementation Of Data-Structures in C++."},
+      {id:2,Language:'Bootstrap 4',title:'Coursera',qualities:'Front-end Design using Bootstrap 4.'},
+      {id:3,Language:'Algorithm-ToolBox',title:'Coursera',qualities:'Basic Problem Solving'},
+      {id:4,Language:'Data-Structures',title:'Coursera',qualities:'Basic Data-Structures'}
     ]
   }
   render(){

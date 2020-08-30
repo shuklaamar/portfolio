@@ -7,6 +7,7 @@ function Certificates({details}){
                 <div key={element.id}>
                 <h1 class="title">{element.title}</h1>
                 <p class="pro">{element.Language}</p>
+                <span>{element.qualities}</span>
             </div>
            </div>
         )
